@@ -1,0 +1,6 @@
+{
+    "type": "forge:add_features",
+    "biomes": "ad_astra:lunar_wastelands",
+    "features": ["kubejs:moon_diamond_ore_large", "kubejs:moon_diamond_ore_small", "kubejs:moon_diamond_ore_buried"],
+    "step": "underground_ores"
+  }
